@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get this API
 application up and running.
 
 
-* Clone Project Repository from Github url:- 
+* Clone Project Repository from Github url:- https://github.com/adityapandit17/user-data-API
 
 - bundle install
 
